@@ -1,0 +1,9 @@
+./core.v
+./adc_control.v
+./data_fifo.v
+./fifo_sync.v
+./reg_command.v
+./sequencer.v
+./reg_general.v
+./spi_slave.v
+./main_fsm_reset_controller.v

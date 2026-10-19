@@ -1,0 +1,15 @@
+./top.v
+./startup_sequencer.v
+./adc_filter.v
+./accumulate_dump_filter.v
+./sinc3_filter.v
+./cdc_data_handshake.v
+./core.v
+./adc_control.v
+./data_fifo.v
+./fifo_sync.v
+./reg_command.v
+./sequencer.v
+./reg_general.v
+./spi_slave.v
+./main_fsm_reset_controller.v
