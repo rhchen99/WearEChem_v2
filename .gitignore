@@ -1,0 +1,9 @@
+__pycache__/
+*.csv
+*.tar.gz
+*.tar
+Test_Data/
+
+example.py
+example_dac.py
+example_iontophoresis.py
